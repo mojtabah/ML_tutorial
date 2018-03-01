@@ -1,0 +1,10 @@
+# Compiled python modules
+*.pyc
+*.iws
+
+# Setuptools distribution folder
+/dist/
+../.idea
+**/../.idea
+**/.idea/
+.idea/
